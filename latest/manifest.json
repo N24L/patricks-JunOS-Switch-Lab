@@ -1,0 +1,44 @@
+{
+  "backup_job_id": "22c6f2a1b13f4bc8bf777803ca2490a7",
+  "captured_at": "2026-09-12T01:43:17.012933+00:00",
+  "excluded_nodes": [],
+  "files": [
+    {
+      "format": "junos-display-set",
+      "node": "clab-vJunOS-Switch-SW4",
+      "path": "SW4.set",
+      "platform": "juniper_vjunosswitch",
+      "sha256": "266e3f96df87914baace874b4917e1f110959f9a83670963c064617f19f6d546",
+      "short_name": "SW4",
+      "size": 914
+    },
+    {
+      "format": "junos-display-set",
+      "node": "clab-vJunOS-Switch-SW5",
+      "path": "SW5.set",
+      "platform": "juniper_vjunosswitch",
+      "sha256": "1ca61bf9af9e8d1511413027ef67aa5ec0a7bfdbc977deaaccee9614f3e2c65c",
+      "short_name": "SW5",
+      "size": 914
+    },
+    {
+      "format": "junos-display-set",
+      "node": "clab-vJunOS-Switch-SW6",
+      "path": "SW6.set",
+      "platform": "juniper_vjunosswitch",
+      "sha256": "86c15996b17b5fe397f701ab6e1dcd414a17a8ddb308c5fc64f7ee5e98ec5b7d",
+      "short_name": "SW6",
+      "size": 914
+    }
+  ],
+  "lab_id": "5ed6766e96a74d1f8ec5421b51dfabb7",
+  "lab_name": "vJunOS-Switch",
+  "node_names": [
+    "clab-vJunOS-Switch-SW4",
+    "clab-vJunOS-Switch-SW5",
+    "clab-vJunOS-Switch-SW6"
+  ],
+  "schema": 1,
+  "topology_digest": "b8fc1c0dbe1fd81951857ee003dc98060035e9a14df62cc4c1712aa5dbbfb543",
+  "topology_provenance": "captured"
+}
