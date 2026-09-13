@@ -1,0 +1,34 @@
+{
+  "backup_job_id": "c03b225d64cf44a3ad34e47160d66957",
+  "captured_at": "2026-09-13T19:59:37.839352+00:00",
+  "excluded_nodes": [],
+  "files": [
+    {
+      "format": "eos-running-config",
+      "node": "clab-ceos-test-RTR1",
+      "path": "RTR1.cfg",
+      "platform": "arista_ceos",
+      "sha256": "200caa93335f055761a336451aa3b146cb3afa5de075bc0b62843e9ed4617f65",
+      "short_name": "RTR1",
+      "size": 1061
+    },
+    {
+      "format": "eos-running-config",
+      "node": "clab-ceos-test-RTR2",
+      "path": "RTR2.cfg",
+      "platform": "arista_ceos",
+      "sha256": "ac4dacaead84fd5918f3e7563b1b50f814e7d55ba21a51b295135a56ec30009d",
+      "short_name": "RTR2",
+      "size": 1061
+    }
+  ],
+  "lab_id": "9c7ebbea739047fa9910a9551df0beb3",
+  "lab_name": "ceos-test",
+  "node_names": [
+    "clab-ceos-test-RTR1",
+    "clab-ceos-test-RTR2"
+  ],
+  "schema": 1,
+  "topology_digest": "7d434d2e48ecd3edc76b1595690acfc79d1a5c41ce43c7f2217283c8fd2adfca",
+  "topology_provenance": "captured"
+}
